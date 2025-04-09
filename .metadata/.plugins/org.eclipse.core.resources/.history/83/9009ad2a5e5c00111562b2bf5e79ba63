@@ -1,5 +1,0 @@
-package core.storage;
-
-public class DatabaseManager {
-
-}

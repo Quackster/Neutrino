@@ -1,7 +1,0 @@
-package neutrino.AdministrationManager;
-
-public enum CallForHelpState {
-	NONE,
-	OPEN,
-	PICKED
-}

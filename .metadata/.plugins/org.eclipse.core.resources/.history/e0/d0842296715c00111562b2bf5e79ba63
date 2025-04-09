@@ -1,5 +1,0 @@
-package com.sulake.habbo.communication.messages.incoming.handshake;
-
-public class HelloMessageEvent extends MessageEvent {
-
-}

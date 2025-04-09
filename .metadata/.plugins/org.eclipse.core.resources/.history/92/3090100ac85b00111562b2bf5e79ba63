@@ -1,5 +1,0 @@
-package core.network;
-
-public class SocketHandler {
-
-}
